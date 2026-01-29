@@ -33,16 +33,6 @@
 
 
 
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical" />
-</p>
-
-
-
 ## 🎯 Objetivos / Próximos Passos
 
 - Criar projetos completos usando **HTML, CSS, JS e Python**  
