@@ -11,14 +11,16 @@
 
 <div align="center">
   <p>
-    Estudante de programação focado em HTML, CSS, JavaScript, com noções de Python e Flet.
+    Estudante de programação focado em HTML, CSS e JavaScript, com conhecimentos em Python e Flet, sempre buscando evoluir na prática.
   </p>
 </div>
 
 <br>
 
+## 🤵 Sobre mim
+Tenho 17 anos, sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focado em aprender na prática, criar projetos completos e evoluir constantemente minhas habilidades na área de tecnologia.
 
-
+<br>
 
 ## 🛠️ Skills e Tecnologias
 
