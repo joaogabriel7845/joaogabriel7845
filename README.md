@@ -18,7 +18,7 @@
 <br>
 
 ## 🤵 Sobre mim
-Tenho 17 anos, sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focado em aprender na prática, criar projetos completos e evoluir constantemente minhas habilidades na área de tecnologia.
+Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focado em aprender na prática, criar projetos completos e evoluir constantemente minhas habilidades na área de tecnologia.
 
 <br>
 
