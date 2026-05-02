@@ -39,7 +39,6 @@ Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focad
 
 - Criar projetos completos usando **HTML, CSS, JS e Python**  
 - Aprender frameworks **React e Tailwind CSS**  
-- Aprimorar minhas habilidades com **Flet**  
 - Melhorar minhas habilidades com **banco de dados e SQL**
 
 <!-- Contatos -->
