@@ -26,6 +26,18 @@ Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focad
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
     <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
 </div>
+<br>
+
+## 🚀 Projetos
+
+| Projeto | Descrição | Link |
+|---|---|---|
+| 🎬 CineSearch | Web app de filmes com busca, página de detalhes e reprodução de trailers (TMDB API) | [Ver projeto](https://cine-search-jade-three.vercel.app) |
+| ⏱️ Pomodoro | Timer Pomodoro com foco, descanso e gerenciamento de tarefas | [Ver projeto](https://joaogabriel7845.github.io/Pomodoro) |
+| 🔢 ContadorJS | Contador para praticar lógica básica, manipulação do DOM e interação com o usuário | [Ver projeto](https://joaogabriel7845.github.io/ContadorJS/) |
+| 🔑 Gerador de Senhas | Gerador de senhas em Python com letras, números e caracteres especiais | [Ver repositório](https://github.com/joaogabriel7845/geradorSenhas) |
+| 🤖 Página Android | Página em HTML e CSS sobre curiosidades e a história do mascote Android | [Ver projeto](https://joaogabriel7845.github.io/pagina-android/) |
+| 🧮 CalculadoraPY | Calculadora feita em Python usando a biblioteca CustomTkinter | [Ver repositório](https://github.com/joaogabriel7845/CalculadoraPY) |
 
 ## 🎯 Objetivos / Próximos Passos
 - Criar projetos completos usando **React e Tailwind**
