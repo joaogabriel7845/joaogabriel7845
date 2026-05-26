@@ -50,9 +50,6 @@ Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focad
     <a href="mailto:joaojoao7845@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
     </a>
-    <a href="https://discord.gg/X2x4umjt">
-        <img src="https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=discord&logoColor=fff" alt="Discord"/>
-    </a>
     <a href="https://www.linkedin.com/in/joão-gabriel-da-silva-aquino-743999342">
         <img src="https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
     </a>
