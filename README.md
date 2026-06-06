@@ -32,6 +32,7 @@ Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focad
 
 | Projeto | Descrição | Link |
 |---|---|---|
+| 🦷 OdontoPrime | Landing page para clínica odontológica com drawer mobile, FAQ accordion e animações (React + Tailwind) | [Ver projeto](https://odonto-prime-eight.vercel.app/) |
 | 📝 BlogHub | Blog com filtro por categoria, tema claro/escuro e carregamento simulado (React + Tailwind) | [Ver projeto](https://blog-hub-sepia.vercel.app/) |
 | 🎬 CineSearch | Web app de filmes com busca, página de detalhes e reprodução de trailers (TMDB API) | [Ver projeto](https://cine-search-jade-three.vercel.app) |
 | ⏱️ Pomodoro | Timer Pomodoro com foco, descanso e gerenciamento de tarefas | [Ver projeto](https://joaogabriel7845.github.io/Pomodoro) |
