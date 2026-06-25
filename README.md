@@ -36,7 +36,7 @@ Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focad
 | 🦷 OdontoPrime | Landing page para clínica odontológica com drawer mobile, FAQ accordion e animações (React + Tailwind) | [Ver projeto](https://odonto-prime-eight.vercel.app/) |
 | 📝 BlogHub | Blog com filtro por categoria, tema claro/escuro e carregamento simulado (React + Tailwind) | [Ver projeto](https://blog-hub-sepia.vercel.app/) |
 | 🎬 CineSearch | Web app de filmes com busca, página de detalhes e reprodução de trailers (TMDB API) | [Ver projeto](https://cine-search-jade-three.vercel.app) |
-| ⏱️ Pomodoro | Timer Pomodoro com foco, descanso e gerenciamento de tarefas | [Ver projeto](https://joaogabriel7845.github.io/Pomodoro) |
+| ⏱️ Pomodoro | Timer Pomodoro com foco, descanso e gerenciamento de tarefas | [Ver projeto](https://pomodoro-hazel-three.vercel.app/) |
 | 🔢 ContadorJS | Contador para praticar lógica básica, manipulação do DOM e interação com o usuário | [Ver projeto](https://joaogabriel7845.github.io/ContadorJS/) |
 | 🔑 Gerador de Senhas | Gerador de senhas em Python com letras, números e caracteres especiais | [Ver repositório](https://github.com/joaogabriel7845/geradorSenhas) |
 | 🤖 Página Android | Página em HTML e CSS sobre curiosidades e a história do mascote Android | [Ver projeto](https://joaogabriel7845.github.io/pagina-android/) |
