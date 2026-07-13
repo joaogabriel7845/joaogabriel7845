@@ -34,6 +34,7 @@ Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focad
 |---|---|---|
 | 🏋️‍♂️ IronFIT | Landing page para academia com planos, depoimentos e formulário integrado ao WhatsApp (React + Tailwind) | [Ver projeto](https://iron-fit-umber.vercel.app/) |
 | 🦷 OdontoPrime | Landing page para clínica odontológica com drawer mobile, FAQ accordion e animações (React + Tailwind) | [Ver projeto](https://odonto-prime-eight.vercel.app/) |
+| 📖 FreeMind | Aplicação de anotações pessoais com suporte a Markdown, organização por categorias e tema claro/escuro. | [Ver projeto](https://free-mind-gilt.vercel.app/) |
 | 📝 BlogHub | Blog com filtro por categoria, tema claro/escuro e carregamento simulado (React + Tailwind) | [Ver projeto](https://blog-hub-sepia.vercel.app/) |
 | 🎬 CineSearch | Web app de filmes com busca, página de detalhes e reprodução de trailers (TMDB API) | [Ver projeto](https://cine-search-jade-three.vercel.app) |
 | ⏱️ Pomodoro | Timer Pomodoro com foco, descanso e gerenciamento de tarefas | [Ver projeto](https://pomodoro-hazel-three.vercel.app/) |
