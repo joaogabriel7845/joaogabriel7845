@@ -1,5 +1,5 @@
 <!-- Header com animação -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=9cc4e4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=F0AB34"/>
 <br>
 <div align="center">
     <a href="https://git.io/typing-svg">
@@ -51,12 +51,12 @@ Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focad
 <!-- Contatos -->
 <p align="center">
     <a href="mailto:joaojoao7845@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"/>
+        <img src="https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=F0AB34" alt="Gmail"/>
     </a>
     <a href="https://www.linkedin.com/in/joão-gabriel-da-silva-aquino-743999342">
-        <img src="https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=F0AB34" alt="LinkedIn"/>
     </a>
 </p>
 
 <!-- Footer com animação -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=9cc4e4&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=F0AB34&section=footer"/>
