@@ -17,16 +17,26 @@
 Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focado em aprender na prática, criar projetos completos e evoluir constantemente minhas habilidades na área de tecnologia.
 <br>
 
-## 🛠️ Skills e Tecnologias
-<div align="center">
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg">
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
-</div>
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
+
+### DevOps & Tools
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 🚀 Projetos
 
@@ -43,10 +53,9 @@ Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focad
 | 🤖 Página Android | Página em HTML e CSS sobre curiosidades e a história do mascote Android | [Ver projeto](https://joaogabriel7845.github.io/pagina-android/) |
 | 🧮 CalculadoraPY | Calculadora feita em Python usando a biblioteca CustomTkinter | [Ver repositório](https://github.com/joaogabriel7845/CalculadoraPY) |
 
-## 🎯 Objetivos / Próximos Passos
-- Criar projetos completos usando **React e Tailwind**
-- Aprender **banco de dados e SQL**
-- Aprender **Node.js e backend**
+
+
+<h2 align="center">Contact me</h2>
 
 <!-- Contatos -->
 <p align="center">
