@@ -27,8 +27,9 @@ Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focad
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F8FAFC?style=for-the-badge&logo=sql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <br>
 
 ### DevOps & Tools
