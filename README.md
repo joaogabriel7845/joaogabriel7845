@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <p>
-    Estudante de programação focado em HTML, CSS, JavaScript e React, sempre buscando evoluir na prática.
+    Estudante de programação com base em frontend (HTML, CSS, JavaScript, React) e foco atual no desenvolvimento backend: SQL, autenticação, autorização e organização de projetos de servidor, buscando integrar todas as camadas da aplicação na prática.
   </p>
 </div>
 <br>
