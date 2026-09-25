@@ -45,6 +45,7 @@ Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focad
 
 | Projeto | Descrição | Link |
 |---|---|---|
+| 📱 BlogCore | Rede social voltada para educação, em estilo Instagram (full-stack, em evolução): usuários compartilham o que estão aprendendo ou querem aprender, com autenticação JWT e edição de perfil (React + Node.js/Fastify + PostgreSQL) | [Ver projeto](https://blogcore-frontend.vercel.app) · [Back-end](https://github.com/joaogabriel7845/blogcore-backend) · [Front-end](https://github.com/joaogabriel7845/blogcore-frontend) |
 | 🏋️‍♂️ IronFIT | Landing page para academia com planos, depoimentos e formulário integrado ao WhatsApp (React + Tailwind) | [Ver projeto](https://iron-fit-umber.vercel.app/) |
 | 🦷 OdontoPrime | Landing page para clínica odontológica com drawer mobile, FAQ accordion e animações (React + Tailwind) | [Ver projeto](https://odonto-prime-eight.vercel.app/) |
 | 📖 FreeMind | Aplicação de anotações pessoais com suporte a Markdown, organização por categorias e tema claro/escuro. | [Ver projeto](https://free-mind-gilt.vercel.app/) |
