@@ -43,20 +43,48 @@ Sou estudante no Brasil e atuo como desenvolvedor fullstack em formação, focad
 
 ## 🚀 Projetos
 
-| Projeto | Descrição | Link |
-|---|---|---|
-| 📱 BlogCore | Rede social voltada para educação, em estilo Instagram (full-stack, em evolução): usuários compartilham o que estão aprendendo ou querem aprender, com autenticação JWT e edição de perfil (React + Node.js/Fastify + PostgreSQL) | [Ver projeto](https://blogcore-frontend.vercel.app) · [Back-end](https://github.com/joaogabriel7845/blogcore-backend) · [Front-end](https://github.com/joaogabriel7845/blogcore-frontend) |
-| 🏋️‍♂️ IronFIT | Landing page para academia com planos, depoimentos e formulário integrado ao WhatsApp (React + Tailwind) | [Ver projeto](https://iron-fit-umber.vercel.app/) |
-| 🦷 OdontoPrime | Landing page para clínica odontológica com drawer mobile, FAQ accordion e animações (React + Tailwind) | [Ver projeto](https://odonto-prime-eight.vercel.app/) |
-| 📖 FreeMind | Aplicação de anotações pessoais com suporte a Markdown, organização por categorias e tema claro/escuro. | [Ver projeto](https://free-mind-gilt.vercel.app/) |
-| 📝 BlogHub | Blog com filtro por categoria, tema claro/escuro e carregamento simulado (React + Tailwind) | [Ver projeto](https://blog-hub-sepia.vercel.app/) |
-| 🎬 CineSearch | Web app de filmes com busca, página de detalhes e reprodução de trailers (TMDB API) | [Ver projeto](https://cine-search-jade-three.vercel.app) |
-| ⏱️ Pomodoro | Timer Pomodoro com foco, descanso e gerenciamento de tarefas | [Ver projeto](https://pomodoro-hazel-three.vercel.app/) |
-| 🔢 ContadorJS | Contador para praticar lógica básica, manipulação do DOM e interação com o usuário | [Ver projeto](https://joaogabriel7845.github.io/ContadorJS/) |
-| 🔑 Gerador de Senhas | Gerador de senhas em Python com letras, números e caracteres especiais | [Ver repositório](https://github.com/joaogabriel7845/geradorSenhas) |
-| 🤖 Página Android | Página em HTML e CSS sobre curiosidades e a história do mascote Android | [Ver projeto](https://joaogabriel7845.github.io/pagina-android/) |
-| 🧮 CalculadoraPY | Calculadora feita em Python usando a biblioteca CustomTkinter | [Ver repositório](https://github.com/joaogabriel7845/CalculadoraPY) |
-
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>📱 BlogCore</h3>
+      <p>Rede social para educação, estilo Instagram. Full-stack com autenticação JWT e edição de perfil.</p>
+      <p><sub>React · Node.js · Fastify · PostgreSQL</sub></p>
+      <a href="https://blogcore-frontend.vercel.app">Ver projeto</a><br>
+      <a href="https://github.com/joaogabriel7845/blogcore-backend">Back-end</a> · <a href="https://github.com/joaogabriel7845/blogcore-frontend">Front-end</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🏋️‍♂️ IronFIT</h3>
+      <p>Landing page para academia com planos, depoimentos e formulário integrado ao WhatsApp.</p>
+      <p><sub>React · Tailwind</sub></p>
+      <a href="https://iron-fit-umber.vercel.app/">Ver projeto</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🦷 OdontoPrime</h3>
+      <p>Landing page para clínica odontológica com drawer mobile, FAQ accordion e animações.</p>
+      <p><sub>React · Tailwind</sub></p>
+      <a href="https://odonto-prime-eight.vercel.app/">Ver projeto</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🎬 CineSearch</h3>
+      <p>Web app de filmes com busca, página de detalhes e reprodução de trailers.</p>
+      <p><sub>HTML · CSS · JavaScript · TMDB API</sub></p>
+      <a href="https://cine-search-jade-three.vercel.app">Ver projeto</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>📖 FreeMind</h3>
+      <p>Aplicação de anotações pessoais com Markdown, categorias e tema claro/escuro.</p>
+      <p><sub>React · Tailwind</sub></p>
+      <a href="https://free-mind-gilt.vercel.app/">Ver projeto</a>
+    </td>
+    <td width="33%" valign="middle" align="center">
+      <h3>📂 Mais projetos</h3>
+      <p>Veja todos os meus repositórios no GitHub.</p>
+      <a href="https://github.com/joaogabriel7845?tab=repositories">Ver repositórios</a>
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="center">Contact me</h2>
